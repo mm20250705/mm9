@@ -10,6 +10,6 @@
 网站D优化移动端体验，确保手机和平板上流畅播放。网站E提供免费和高清付费影片，满足高质量需求。
 所有平台都保证流畅、高质量的观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/mm20250705/mm9 ）</span>
 
 
